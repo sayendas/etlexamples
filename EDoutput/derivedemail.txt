@@ -1,0 +1,8 @@
+ID|Fname|Lname|City|Email
+1|A|B|Mumbai|A.B@gmail.com
+2|C|D|Kolkata|C.D@gmail.com
+3|E|F|Chennai|E.F@gmail.com
+4|G|H|Delhi|G.H@gmail.com
+5|I|J|Ladakh|I.J@gmail.com
+6|K|L|Kashmir|K.L@gmail.com
+7|M|N|Chandigarh|M.N@gmail.com
